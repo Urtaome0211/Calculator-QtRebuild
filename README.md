@@ -71,3 +71,8 @@ QtRebuild/
 - 深色主题下原生下拉框弹出列表样式由 Qt 接管，无旧版限制；
 - 历史文件位置从 `%APPDATA%\W11Calc\` 变为 `%APPDATA%\QtCalculator\`（QStandardPaths）；
 - 货币汇率为内置参考汇率（非实时），与旧版一致。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE) 开源协议，可自由使用、修改与分发。
+
